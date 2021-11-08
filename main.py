@@ -1,8 +1,8 @@
 # THE BIO FUNCTION
 def bio(name,born,pronoun):
-    print("----------------------------------------")
     age = 2021-born
     future = born+67
+    print("----------------------------------------")
     print(name.capitalize(), "was born in", born)
     print(pronoun.capitalize(), "will turn", age, "years old this year")
     print(pronoun.capitalize(), "will be 67 in the year", future)
